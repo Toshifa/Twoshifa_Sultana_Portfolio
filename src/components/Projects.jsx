@@ -6,7 +6,7 @@ const projects = [
       imgSrc: '/images/Netflix.png',
       title: 'Netflix Clone app',
       tags: ['HTML', 'CSS3', 'Bootstrap'],
-      projectLink: 'https://toshifa.github.io/Netflix-Assignment_3/'
+      projectLink: 'https://netflix-assignment-3.vercel.app/'
     },
     {
       imgSrc: '/images/project-3.png',
@@ -30,7 +30,7 @@ const projects = [
       imgSrc: '/images/project-5.png',
       title: 'Recipe App',
       tags: ['HTML', 'CSS3', 'Bootstrap'],
-      projectLink: 'https://toshifa.github.io/Recipe-app/'
+      projectLink: 'https://recipe-app-h81e.vercel.app/'
     },
     {
       imgSrc: '/images/project-6.jpg',

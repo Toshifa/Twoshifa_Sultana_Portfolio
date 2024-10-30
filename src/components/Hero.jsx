@@ -12,7 +12,7 @@ const Hero = () => {
                     src="/images/avatarT.png"
                     width={40}
                     height={40}
-                    alt="Henry Clark portrait"
+                    alt="Twwoshifa Sultana portrait"
                     className="img-cover"
                     />
                 </figure>
