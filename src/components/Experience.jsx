@@ -80,7 +80,7 @@ const Experience = () => {
           Work experience as a software developer
         </h2>
 
-        <div className="scrub-slide flex items-stretch gap-3 w-fit">
+        <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
           {experience.map(({content, name, imgSrc, company, year,skills}, key)=> (
             <ExperienceCard
               key={key}
