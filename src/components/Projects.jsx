@@ -2,18 +2,7 @@ import React from 'react'
 import  ProjectCard  from './ProjectCard';
 
 const projects = [
-    {
-      imgSrc: '/images/Netflix.png',
-      title: 'Netflix Clone app',
-      tags: ['HTML', 'CSS3', 'Bootstrap'],
-      projectLink: 'https://netflix-assignment-3.vercel.app/'
-    },
-    {
-      imgSrc: '/images/project-3.png',
-      title: 'EzyMetrics',
-      tags: ['React JS', 'TypeScript','Tailwind CSS', 'Figma', 'Chart JS'],
-      projectLink: 'https://ezymetrics-dashboard-eta.vercel.app/'
-    },
+    
     {
       imgSrc: '/images/project-4.png',
       title: 'E-schooling website',
@@ -27,16 +16,28 @@ const projects = [
       projectLink: 'https://disney-movie-app.vercel.app/'
     },
     {
+      imgSrc: '/images/project-6.jpg',
+      title: 'Binance Market Data',
+      tags: ['React JS', 'TypeScript','Chart JS', 'Tailwind CSS', 'WebSocket API' ],
+      projectLink: 'https://binance-market-data-lovat.vercel.app/'
+    },
+    {
       imgSrc: '/images/project-5.png',
       title: 'Recipe App',
       tags: ['HTML', 'CSS3', 'Bootstrap'],
       projectLink: 'https://recipe-app-h81e.vercel.app/'
     },
     {
-      imgSrc: '/images/project-6.jpg',
-      title: 'Binance Market Data',
-      tags: ['React JS', 'TypeScript','Chart JS', 'Tailwind CSS', 'WebSocket API' ],
-      projectLink: 'https://binance-market-data-lovat.vercel.app/'
+      imgSrc: '/images/project-3.png',
+      title: 'EzyMetrics',
+      tags: ['React JS', 'TypeScript','Tailwind CSS', 'Figma', 'Chart JS'],
+      projectLink: 'https://ezymetrics-dashboard-eta.vercel.app/'
+    },
+    {
+      imgSrc: '/images/Netflix.png',
+      title: 'Netflix Clone app',
+      tags: ['HTML', 'CSS3', 'Bootstrap'],
+      projectLink: 'https://netflix-assignment-3.vercel.app/'
     },
   ];
 
